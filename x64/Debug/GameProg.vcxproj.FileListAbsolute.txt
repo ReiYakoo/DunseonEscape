@@ -1,0 +1,6 @@
+C:\Users\OMEN\OneDrive\デスクトップ\チーム制作\GameProg\x64\Debug\GameProg.exe
+C:\Users\OMEN\OneDrive\デスクトップ\チーム制作\GameProg ver.1.3\GameProg\x64\Debug\GameProg.exe
+C:\Users\OMEN\OneDrive\デスクトップ\ゲーム\x64\Debug\GameProg.exe
+C:\Users\OMEN\OneDrive\デスクトップ\ゲーム - コピー\x64\Debug\GameProg.exe
+C:\Users\OMEN\OneDrive\デスクトップ\タワーディフェンス\x64\Debug\GameProg.exe
+C:\Users\OMEN\OneDrive\デスクトップ\Dunseon Escape\x64\Debug\GameProg.exe
